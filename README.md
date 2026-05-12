@@ -77,9 +77,6 @@ wget -N https://raw.githubusercontent.com/crossfff/XrayR/master/install.sh && ba
 
 [Docker部署教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/docker)
 
-### 手动安装
-
-[手动安装教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/manual)
 
 ## 配置文件及详细使用教程
 
@@ -96,11 +93,6 @@ wget -N https://raw.githubusercontent.com/crossfff/XrayR/master/install.sh && ba
 
 [Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
 
-## Telgram
-
-[XrayR后端讨论](https://t.me/XrayR_project)
-
-[XrayR通知](https://t.me/XrayR_channel)
 
 ## Stargazers over time
 
